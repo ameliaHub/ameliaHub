@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy Amelia, una desarrolladora Full Stack en formación 🌱. Puedes ver mis proyectos en [mi portafolio](https:).
+Soy Amelia, una desarrolladora Full Stack en formación 🌱. Puedes ver mis proyectos [aquí](https:).
 
 ## 🚀 Lo que estoy aprendiendo
 - 🌐 **Frontend** con HTML, CSS y JavaScript
