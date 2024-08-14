@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy Amelia, desarrolladora Front-End en formación 🌱. Puedes ver mis proyectos [aquí](https:).
+Soy Amelia, desarrolladora Front-End en formación. Puedes ver mis proyectos [aquí](https:).
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
