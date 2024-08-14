@@ -1,5 +1,5 @@
 ## 👋
-Soy Amelia, desarrolladora Front-End. Puedes ver mis proyectos en [mi portafolio](https:).
+Soy Amelia, desarrolladora Front-End. Puedes ver mis proyectos en [aquí](https:).
 
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
