@@ -1,4 +1,4 @@
-## Hola 👋
+## 👋
 Soy Amelia, desarrolladora Front-End. Puedes ver mis proyectos [aquí](https:).
 
 ## Tech Stack
