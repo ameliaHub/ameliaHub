@@ -9,6 +9,7 @@ Soy Amelia, desarrolladora Front-End. Puedes ver mis proyectos <a href="https://
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+[![Webpack](https://img.shields.io/badge/webpack-5.0.0-blue?style=flat-square&logo=webpack)](#)
 
 
 
