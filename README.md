@@ -1,5 +1,5 @@
 ## 👋
-Soy Amelia, desarrolladora Front-End. Puedes ver mis proyectos <a href="https://ameliahub.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer">aquí</a>. 
+Estudiando desarrollo Front-End. Puedes ver mis proyectos <a href="https://ameliahub.github.io/personal-portfolio/" target="_blank" rel="noopener noreferrer">aquí</a>. 
 
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
